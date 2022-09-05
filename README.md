@@ -1,13 +1,13 @@
 <!-- Header -->
 <header>
     <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?duration=3500&color=67738A&center=true&vCenter=true&lines=Hi+I+am+Ivan+Lin!;My+interests+are+...;Web+Development+%F0%9F%93%8A!;UI+Engineering+%F0%9F%92%BF!;and+Software+Engineering+%F0%9F%92%BB!+" /></h1>
-    <h3 align="center">Second-Year Student at Rochester Institute of Technology.</h3>
+    <h3 align="center">Second-Year Software Engineering Student at Rochester Institute of Technology.</h3>
 </header>
 
 <!-- About Me -->
 <section id="About_Me">
-    ◇I'm interested in Data Engineering, Production Engineering, and Software Engineering. <br />
-    ◇You can reach me at: <a href="mailto:il9082@rit.edu">il9082@rit.edu</a>
+    ◇ I'm interested in Data Engineering, Production Engineering, and Software Engineering. <br />
+    ◇ You can reach me at: <a href="mailto:il9082@rit.edu">il9082@rit.edu</a>
 </section>
 
 <!-- Connect With Me -->
