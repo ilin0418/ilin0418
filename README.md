@@ -6,8 +6,8 @@
 
 <!-- About Me -->
 <section id="About_Me">
-    -I'm interested in Data Engineering, Production Engineering, and Software Engineering. <br />
-    -Reach me at: <a href="mailto:il9082@rit.edu">il9082@rit.edu</a>
+    ◇I'm interested in Data Engineering, Production Engineering, and Software Engineering. <br />
+    ◇You can reach me at: <a href="mailto:il9082@rit.edu">il9082@rit.edu</a>
 </section>
 
 <!-- Connect With Me -->
