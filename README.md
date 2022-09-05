@@ -1,11 +1,12 @@
 <!-- Header -->
 <header>
-    <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=67738A&center=true&vCenter=true&lines=Hi+I+am+Ivan+Lin!;MMMMy+interests+are+in+UI+Engineering+%F0%9F%93%8A!;Silicon+Engineering+%F0%9F%92%BF!;and+Software+Engineering+%F0%9F%92%BB!+" /></h1>
+    <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=67738A&center=true&vCenter=true&lines=Hi+I+am+Ivan+Lin!;MMMMy+interests+are+in+UI+Engineering+%F0%9F%93%8A!;Silicon+Engineering+&#x1F4A0;	    !;and+Software+Engineering+%F0%9F%92%BB!+" /></h1>
     <h3 align="center">Second-Year Software Engineering Student at Rochester Institute of Technology.</h3>
 </header>
 
 <!-- About Me -->
 <section id="About_Me">
+    ◇ I'm currently learning Typescript, HTML/CSS, Flask, React, PostreSQL, 
     ◇ I'm interested in Data Engineering, Production Engineering, and Software Engineering. <br />
     ◇ You can reach me at: <a href="mailto:il9082@rit.edu">il9082@rit.edu</a>
 </section>
