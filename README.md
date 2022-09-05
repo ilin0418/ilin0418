@@ -54,4 +54,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justyvn&layout=compact&theme=dark&hide_border=true" /></a><br />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=justyvn&show_icons=true&count_prive=true&theme=dark&hide_border=true" /></a><br />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justyvn&theme=dark&hide_border=true"></a>
+    ### Currently Listening To 🎧
+[![Spotify](https://novatoremm-sand.vercel.app/api/spotify)](https://open.spotify.com/user/evon)
 </section>
