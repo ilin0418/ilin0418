@@ -1,6 +1,6 @@
 <!-- Header -->
 <header>
-    <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?duration=3500&color=67738A&center=true&vCenter=true&lines=Hi+I+am+Ivan+Lin!;My+interests+are+...;UI+Engineering+%F0%9F%93%8A!;Silicon+Engineering+%F0%9F%92%BF!;and+Software+Engineering+%F0%9F%92%BB!+" /></h1>
+    <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?duration=3500&color=67738A&center=true&vCenter=true&lines=Hi+I+am+Ivan+Lin!;My+interests+are+ in UI+Engineering+%F0%9F%93%8A!;Silicon+Engineering+%F0%9F%92%BF!;and+Software+Engineering+%F0%9F%92%BB!+" /></h1>
     <h3 align="center">Second-Year Software Engineering Student at Rochester Institute of Technology.</h3>
 </header>
 
