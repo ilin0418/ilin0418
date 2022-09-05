@@ -13,7 +13,7 @@
 <!-- Connect With Me -->
 <section id="Connect_With_Me">
     <h2>Connect with me:</h2>
-    <a href="https://www.linkedin.com/in/il9082/"><img width="48px" height="48px" 
+    <a href="https://www.linkedin.com/in/jiechen-sbu/"><img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </section>
 
 
