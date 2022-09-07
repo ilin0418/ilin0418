@@ -50,6 +50,7 @@
 
 <!-- Github Statistics -->
 <section id="Github_Statistics">
+
     <h2>Github Statistics:</h2>
-![Julian's github stats](https://github-readme-stats.vercel.app/api?username=julian31186&show_icons=true&theme=radical)
+    ![Julian's github stats](https://github-readme-stats.vercel.app/api?username=julian31186&show_icons=true&theme=radical)
 </section>
