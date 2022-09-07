@@ -51,7 +51,5 @@
 <!-- Github Statistics -->
 <section id="Github_Statistics">
     <h2>Github Statistics:</h2>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justyvn&layout=compact&theme=dark&hide_border=true" /></a><br />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=justyvn&show_icons=true&count_prive=true&theme=dark&hide_border=true" /></a><br />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justyvn&theme=dark&hide_border=true"></a>
+    !https://github-readme-stats.vercel.app/api?username=justyvn&show_icons=true&theme=radical)
 </section>
