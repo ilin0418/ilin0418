@@ -1,6 +1,7 @@
 <!-- Header -->
 <header>
-    <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?cascadia+code&duration=4000&color=a020f0&center=true&vCenter=true&lines=Hi+I+am+Ivan+Lin!;MMMMy+interests+are+in+UI+Engineering+%F0%9F%93%8A!;Silicon+Engineering+&#x1F4A0!;and+Software+Engineering+&#x1F4BB!+" /></h1>
+    <h1 align="center"><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+" /></h1>
     <h3 align="center">Second-Year Software Engineering Student at Rochester Institute of Technology.</h3>
 </header>
 
@@ -15,7 +16,7 @@
 <!-- Connect With Me -->
 <section id="Connect_With_Me">
     <h2>Connect with me:</h2>
-    <a href="https://www.linkedin.com/in/jiechen-sbu/"><img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+    <a href="https://www.linkedin.com/in/il9082/"><img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </section>
 
 
