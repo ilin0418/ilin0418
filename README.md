@@ -1,6 +1,6 @@
 <!-- Header -->
 <header>
-    <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I+am+Ivan+Lin!;MMMMy+interests+are+in+UI+Engineering+%F0%9F%93%8A!;Silicon+Engineering+&#x1F4A0!;and+Software+Engineering+&#x1F4BB!+" alt="Typing SVG" /></a></h1>
+    <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?cascadia+code&duration=4000&color=a020f0&center=true&vCenter=true&lines=Hi+I+am+Ivan+Lin!;MMMMy+interests+are+in+UI+Engineering+%F0%9F%93%8A!;Silicon+Engineering+&#x1F4A0!;and+Software+Engineering+&#x1F4BB!+"></a></h1>
     <h3 align="center">Second-Year Software Engineering Student at Rochester Institute of Technology.</h3>
 </header>
 
