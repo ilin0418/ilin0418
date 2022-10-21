@@ -6,7 +6,7 @@
 
 <!-- About Me -->
 <section id="About_Me">
-    ◇ I'm currently learning Typescript, HTML/CSS, Flask, React, PostreSQL <br/>
+    ◇ I'm currently learning Typescript, HTML/CSS, Flask, React, PostgreSQL <br/>
     ◇ Proficient in Java & Python, I'm ok with C/C++ tho <br/>
     ◇ I'm interested in Data Engineering, Production Engineering, and Software Engineering. <br />
     ◇ You can reach me at: <a href="mailto:il9082@rit.edu">il9082@rit.edu</a>
