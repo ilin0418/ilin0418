@@ -6,7 +6,7 @@
 
 <!-- About Me -->
 <section id="About_Me">
-    ◇ Proficient in Java, Python, HTML/CSS, Javascript, React, SQL(PostgreSQL), I'm decent with C/C++ tho <br/>
+    ◇ Proficient in Java, Python, HTML/CSS, Javascript, React, and SQL(PostgreSQL). I'm decent with C/C++ tho <br/>
     ◇ I'm interested in Data Engineering, Production Engineering, and Software Engineering. <br />
     ◇ You can reach me at: <a href="mailto:il9082@rit.edu">il9082@rit.edu</a>
 </section>
