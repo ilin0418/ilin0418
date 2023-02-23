@@ -4,7 +4,9 @@
     <h3 align="center">Second-Year Software Engineering Student at Rochester Institute of Technology.</h3>
 </header>
 
-<h5 font-family: "sans-serif"; color: "iris"> Hey there! I'm Ivan, I'm a college student who's passionate about learning new progamming languages. I love building full-stack applications, however I do prefer backend because I'm not creative enough and I'm interested in getting into machine learning. I mainly push my code to GitHub when I make significant progress. Feel free to reach out to me if you need anything. <br/><br/>Here are some of my main highlights so far: </h5>
+<h5 font-family: "sans-serif"; color: "iris"> Hey there! I'm Ivan, I'm a college student who's passionate about learning new progamming languages. I love building full-stack applications, however I do prefer backend because I'm not creative enough and I'm interested in getting into machine learning. I mainly push my code to GitHub when I make significant progress. Feel free to reach out to me if you need anything. <br/></h5>
+
+<h5>Here are some of my main highlights so far: </h5>
 <!-- About Me -->
 <section id="About_Me">
     👨‍💻 Proficient in Java, Python (main), HTML5/CSS, Javascript, and SQL(PostgreSQL). I'm decent with C/C++ and Typescript tho <br/>
@@ -12,6 +14,18 @@
     🌱 Currently self-learning: Vue.JS, PyTorch (for ML), Django, and Kotlin <br/>
     ⚡ I'm interested in Data Engineering, Production Engineering, and Software Engineering. <br />
     📨 You can reach me at: <a href="mailto:il9082@rit.edu">il9082@rit.edu</a>
+</section>
+
+<section id="Hobbies">
+    <h3> My hobbies: </h3>
+    <ul>
+        <li> ◇ Watching new animes, Kdramas, videos on new tech like GPUs + CPUs, and snippets from SharkTank.
+        <li> ◇ Reading manwha, lightnovels, and mangas 
+        <li> ◇ Browsing the internet to shop for new tech upgrades.
+        <li> ◇ Working out at the gym 
+    </ul>
+    
+    
 </section>
 
 <!-- Connect With Me -->
