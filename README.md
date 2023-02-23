@@ -23,6 +23,7 @@
         <li> ◇ Reading manwha, lightnovels, and mangas 
         <li> ◇ Browsing the internet to shop for new tech upgrades.
         <li> ◇ Working out at the gym 
+        <li> ◇ Building PCs for my friends 
     </ul>
     
     
