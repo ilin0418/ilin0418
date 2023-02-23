@@ -6,7 +6,9 @@
 
 <!-- About Me -->
 <section id="About_Me">
-    ◇ Proficient in Java, Python, HTML/CSS, Javascript, React, and SQL(PostgreSQL). I'm decent with C/C++ tho <br/>
+    ◇ Proficient in Java, Python (main), HTML5/CSS, Javascript, and SQL(PostgreSQL). I'm decent with C/C++ and Typescript tho <br/>
+    ◇ Frameworks I know how to use: React.JS and Angular.JS 
+    ◇ Currently self-learning: Vue.JS, PyTorch (for ML), Django, and Kotlin
     ◇ I'm interested in Data Engineering, Production Engineering, and Software Engineering. <br />
     ◇ You can reach me at: <a href="mailto:il9082@rit.edu">il9082@rit.edu</a>
 </section>
