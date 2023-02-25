@@ -4,7 +4,7 @@
     <h3 align="center">Second-Year Software Engineering Student at Rochester Institute of Technology.</h3>
 </header>
 
-$${\color{red}<h5>  Hey there! I'm Ivan, I'm a college student who's passionate about learning new progamming languages. I love building full-stack applications, however I do prefer backend because I'm not creative enough and I'm interested in getting into machine learning. I mainly push my code to GitHub when I make significant progress. Feel free to reach out to me if you need anything. <br/> </h5>}$$	
+$${\color{red}Hey there! I'm Ivan, I'm a college student who's passionate about learning new progamming languages. I love building full-stack applications, however I do prefer backend because I'm not creative enough and I'm interested in getting into machine learning. I mainly push my code to GitHub when I make significant progress. Feel free to reach out to me if you need anything.}$$	
 
 
 
