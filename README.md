@@ -1,6 +1,6 @@
 <!-- Header -->
 <header>
-    <h1 align="center"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9c1ed75a-6774-4b08-8b8b-0ea63224f0ec/d8iu0a0-80fe7c9d-328b-43f0-bc26-d16e8a6d0b69.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzljMWVkNzVhLTY3NzQtNGIwOC04YjhiLTBlYTYzMjI0ZjBlY1wvZDhpdTBhMC04MGZlN2M5ZC0zMjhiLTQzZjAtYmMyNi1kMTZlOGE2ZDBiNjkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2oNgySDyCc7TBw7Hhv02LreKPWrfFCuT-kampa7zovI" height="200px"></h1>
+    <h1 align="center"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9c1ed75a-6774-4b08-8b8b-0ea63224f0ec/d8iu0a0-80fe7c9d-328b-43f0-bc26-d16e8a6d0b69.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzljMWVkNzVhLTY3NzQtNGIwOC04YjhiLTBlYTYzMjI0ZjBlY1wvZDhpdTBhMC04MGZlN2M5ZC0zMjhiLTQzZjAtYmMyNi1kMTZlOGE2ZDBiNjkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2oNgySDyCc7TBw7Hhv02LreKPWrfFCuT-kampa7zovI" height="200px" width=100></h1>
     <h3 align="center">Second-Year Software Engineering Student at Rochester Institute of Technology.</h3>
 </header>
 
