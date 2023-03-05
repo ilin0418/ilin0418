@@ -1,6 +1,6 @@
 <!-- Header -->
 <header>
-    <h1 align="center"><img src="https://lh3.googleusercontent.com/nqqm2wzFfD52yXIa8SZ9GZq8U_m3PWX4q0vm2pzs6pDiH5UHUaFDipm3hEa50NPKJaRm0bQ0L1gevH8mQzQTvH-pqVMmTN7UlalQV9c" height=200 width=800></h1>
+    <h1 align="center"><img src="https://static.vecteezy.com/system/resources/previews/007/523/400/non_2x/circuit-board-technology-background-purple-and-blue-light-banner-electronic-system-concept-vector.jpg" height=200 width=800></h1>
     <h3 align="center">Second-Year Software Engineering Student at Rochester Institute of Technology.</h3>
 </header>
 
