@@ -4,7 +4,7 @@
     <h3 align="center">Second-Year Software Engineering Student at Rochester Institute of Technology.</h3>
 </header>
 
-<h5>  Hey there! I'm Ivan, I'm a college student who's passionate about learning new progamming languages. I love building full-stack applications, however I do prefer backend because I'm not creative enough and I'm interested in getting into machine learning. I mainly push my code to GitHub when I make significant progress. Feel free to reach out to me if you need anything. <br/> </h5>
+<h5>  Hi there! My name is Ivan, and I'm a dedicated college student who loves to explore new programming languages. I have a passion for building full-stack applications, although I tend to focus more on backend development due to my interest in machine learning. Whenever I make significant progress, I share my code on GitHub. If you need any help or have any questions, don't hesitate to contact me! <br/> </h5>
 
 
 
