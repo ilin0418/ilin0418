@@ -11,25 +11,7 @@
 
 
 
-<h5>Here are some of my main highlights so far: </h5>
-<!-- About Me -->
-<section id="About_Me">
-    👨‍💻 Proficient in Java, Python (main), HTML5/CSS, Javascript, and SQL(PostgreSQL). I'm decent with C/C++ and Typescript tho <br/>
-    🌐 Frameworks I know how to use: React.JS and Angular.JS  <br/>
-    🌱 Currently self-learning: Vue.JS, PyTorch (for ML), Django, and Kotlin <br/>
-    ⚡ I'm interested in Data Engineering, Production Engineering, and Software Engineering. <br />
-    📨 You can reach me at: <a href="mailto:il9082@rit.edu">il9082@rit.edu</a>
-</section>
 
-<section id="Hobbies">
-    <h3> My hobbies: </h3>
-    <ul>
-        <li> ◇ Watching new animes, Kdramas, videos on new tech like GPUs + CPUs, and snippets from SharkTank.
-        <li> ◇ Reading manwha, lightnovels, and mangas 
-        <li> ◇ Browsing the internet to shop for new tech upgrades.
-        <li> ◇ Working out at the gym 
-        <li> ◇ Building PCs for my friends 
-    </ul>
     
     
 </section>
