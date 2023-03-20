@@ -1,7 +1,6 @@
 <!-- Header -->
 <header>
-    <h1 align="center"><img src="https://c4.wallpaperflare.com/wallpaper/396/512/982/black-background-line-violet-wallpaper-preview.jpg" height=300 width=100%></h1>
-    <h3 align="center">Second-Year Software Engineering Student at Rochester Institute of Technology.</h3>
+  
 </header>
 
 
