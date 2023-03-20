@@ -1,4 +1,7 @@
+<header></header>
 
+
+<body>
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/253349376179568641?theme=light&bg=CCCCFF&animated=trie&hideDiscrim=true&borderRadius=40px&idleMessage=Not%20currently%20doing%20anything)](https://discord.com/users/253349376179568641)
 
 
@@ -12,7 +15,7 @@
     <h2>Connect with me:</h2>
     <a href="https://www.linkedin.com/in/il9082/"><img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </section>
-
+</body>
 
 <!-- Tech Stack -->
 <!-- <section>
