@@ -1,7 +1,15 @@
 <!-- Connect With Me -->
-<section id="Connect_With_Me">
-  <h5>  Hi there! My name is Ivan, and I'm a college student who loves to explore new programming languages. I have a passion for building full-stack applications, although I tend to focus more on backend development due to my interest in machine learning. Whenever I make significant progress, I share my code on GitHub. If you need any help or have any questions, don't hesitate to contact me! <br/> </h5>
-<!-- Technologies I am proficient with-->
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto"><a href="https://discord.com/users/253349376179568641" rel="nofollow"><img align="left" src="https://lanyard.cnrad.dev/api/253349376179568641" borderRadius=8px&amp;hideDiscrim=true" style="max-width: 100%;"></a></p>
+
+<p dir="auto"> Hi there! My name is Ivan, and I'm a college student who loves to explore new programming languages. I have a passion for building full-stack applications, although I tend to focus more on backend development due to my interest in machine learning. Whenever I make significant progress, I share my code on GitHub. If you need any help or have any questions, don't hesitate to contact me!
+</p>
+
+</article>
+  
+  <br></br><br><br>
+  
+  
+  
 <section id="Programming Languages/Frameworks I'm proficient in">
     <h2 align= "center" >Technologies I am familiar with </h2>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
