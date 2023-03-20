@@ -1,6 +1,6 @@
 <!-- Connect With Me -->
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto"><a href="https://discord.com/users/253349376179568641" rel="nofollow"><img align="left" src="https://lanyard.cnrad.dev/api/253349376179568641?themelight&bg=CBC3E3&Probably%20doing%20something%20else..."   
-       data-canonical-src="https://lanyard-profile-readme.vercel.app/api/253349376179568641?theme=dark&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...""></p>
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto"><a href="https://discord.com/users/253349376179568641" rel="nofollow"><img align="left" src="https://lanyard.cnrad.dev/api/253349376179568641?theme=light&bg=CBC3E3&Probably%20doing%20something%20else..."   
+       data-canonical-src="https://lanyard-profile-readme.vercel.app/api/253349376179568641?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...""></p>
 
 <p dir="auto"> Hi there! My name is Ivan, and I'm a college student who loves to explore new programming languages. I have a passion for building full-stack applications, although I tend to focus more on backend development due to my interest in machine learning. Whenever I make significant progress, I share my code on GitHub. If you need any help or have any questions, don't hesitate to contact me!
 </p>
