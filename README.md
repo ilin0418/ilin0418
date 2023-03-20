@@ -5,7 +5,8 @@
 </header>
 
 
-<p dir="auto"><a href="https://discord.com/users/253349376179568641" rel="nofollow"><img align="left" src="https://camo.githubusercontent.com/5c775006827078d909a66a901e765db75733e6c174923c3d10699b2aaf843fda/68747470733a2f2f6c616e796172642e75736869656b616e652e6465762f6170692f3339393836323239343134333639363839373f626f726465725261646975733d38707826686964654469736372696d3d74727565" data-canonical-src="https://lanyard.ushiekane.dev/api/253349376179568641?borderRadius=8px&amp;hideDiscrim=true" style="max-width: 100%;"></a></p>
+[![Discord Presence](https://lanyard.cnrad.dev/api/:253349376179568641)](https://discord.com/users/:253349376179568641)
+
 
 <h5>  Hi there! My name is Ivan, and I'm a dedicated college student who loves to explore new programming languages. I have a passion for building full-stack applications, although I tend to focus more on backend development due to my interest in machine learning. Whenever I make significant progress, I share my code on GitHub. If you need any help or have any questions, don't hesitate to contact me! <br/> </h5>
 
