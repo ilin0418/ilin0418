@@ -1,18 +1,9 @@
-<!-- Header -->
-<header>
-  
-</header>
-
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/253349376179568641?theme=light&bg=CCCCFF&animated=trie&hideDiscrim=true&borderRadius=40px&idleMessage=Not%20currently%20doing%20anything)](https://discord.com/users/253349376179568641)
 
 
 <h5>  Hi there! My name is Ivan, and I'm a dedicated college student who loves to explore new programming languages. I have a passion for building full-stack applications, although I tend to focus more on backend development due to my interest in machine learning. Whenever I make significant progress, I share my code on GitHub. If you need any help or have any questions, don't hesitate to contact me! <br/> </h5>
 
-
-
-
-    
     
 </section>
 
