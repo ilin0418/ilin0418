@@ -1,8 +1,6 @@
 <!-- Connect With Me -->
 <section id="Connect_With_Me">
   <h5>  Hi there! My name is Ivan, and I'm a college student who loves to explore new programming languages. I have a passion for building full-stack applications, although I tend to focus more on backend development due to my interest in machine learning. Whenever I make significant progress, I share my code on GitHub. If you need any help or have any questions, don't hesitate to contact me! <br/> </h5>
-
-<h5>Here are some of my main highlights so far: </h5>
 <!-- Technologies I am proficient with-->
 <section id="Programming Languages/Frameworks I'm proficient in">
     <h2 align= "center" >Technologies I am familiar with </h2>
