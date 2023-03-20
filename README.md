@@ -5,7 +5,7 @@
 <h5>Here are some of my main highlights so far: </h5>
 <!-- Technologies I am proficient with-->
 <section id="Programming Languages/Frameworks I'm proficient in">
-    <h2>Technologies I am familiar with </h2>
+    <h2 align= "center" >Technologies I am familiar with </h2>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -22,7 +22,7 @@
 
 <!-- Github Statistics -->
 <section id="Github_Statistics">
-    <h2>Github Statistics:</h2>
+    <h2 align='center' >Github Stats</h2>
     <img align="left" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=il9082&layout=compact&theme=dark&hide_border=true" /></a><br />
     <img align="right" width=50%  src="https://github-readme-stats.vercel.app/api?username=il9082&show_icons=true&count_prive=true&theme=dark&hide_border=true" /></a><br />
 
