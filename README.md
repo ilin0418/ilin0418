@@ -7,7 +7,7 @@
 
 </article>
   
-  <br></br><br><br>
+ <br><br><br>
   
 <section id="Programming Languages/Frameworks I'm proficient in">
     <h2 align= "center" >Technologies I am familiar with </h2>
