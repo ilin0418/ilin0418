@@ -1,14 +1,11 @@
-<!-- Connect With Me -->
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto"><a href="https://discord.com/users/253349376179568641" rel="nofollow">
-       <img align="left" width=50% src="https://lanyard.cnrad.dev/api/253349376179568641?theme=light&bg=CBC3E3&idleMessage=Probably%20doing%20something%20else..."   
-       data-canonical-src="https://lanyard-profile-readme.vercel.app/api/253349376179568641?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...""></p>
-       
-<div>
-       <h3 align='center'> About Me 🍪 </h3>
-<p dir="auto" width=50%> Hi there! My name is Ivan, and I'm a college student who loves to explore new programming languages. I have a passion for building full-stack  applications, although I tend to focus more on backend development due to my interest in machine learning. Whenever I make significant progress, I share my code on GitHub. If you need any help or have any questions, don't hesitate to contact me!
-</p>
-       </div>
-</article>
+
+
+<header>
+    <h1 align="center"><img src="https://readme-typing-svg.demolab.com?duration=3500&color=9370DB&center=true&vCenter=true&lines=Hi+I+am+Ivan+Lin;My+interests+are+in....;Software+Engineering+%f0%9f%92%bb;Production+Engineering+%f0%9f%93%b0;and+Silicon+Engineering+%f0%9f%92%a0+" /></h1>
+    <h3 align="center">Sophmore @RIT</h3>
+</header>
+
+
   
  <br>
   
