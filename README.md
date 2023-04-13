@@ -2,7 +2,7 @@
 
 <header>
     <h1 align="center"><img src="https://readme-typing-svg.demolab.com?duration=3500&color=9370DB&center=true&vCenter=true&lines=Hi+I+am+Ivan+Lin;My+interests+are+in....;Software+Engineering+%f0%9f%92%bb;Production+Engineering+%f0%9f%93%b0;and+Silicon+Engineering+%f0%9f%92%a0+" /></h1>
-    <h3 align="center">Sophmore @RIT</h3>
+    <h3 align="center">Sophomore @RIT</h3>
 </header>
 
 
