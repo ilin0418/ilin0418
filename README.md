@@ -42,7 +42,7 @@
 <!-- Github Statistics -->
 <section id="Github_Statistics">
     <h2 align='center' >Github Stats</h2>
-    <img align="left" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaffinatedWater&layout=compact&theme=dark&hide_border=true" /></a><br />
-    <img align="right" width=50%  src="https://github-readme-stats.vercel.app/api?username=CaffinatedWater&show_icons=true&count_prive=true&theme=dark&hide_border=true" /></a><br />
+    <img align="left" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axtomaton&layout=compact&theme=dark&hide_border=true" /></a><br />
+    <img align="right" width=50%  src="https://github-readme-stats.vercel.app/api?username=Axtomaton&show_icons=true&count_prive=true&theme=dark&hide_border=true" /></a><br />
 
 </section>
