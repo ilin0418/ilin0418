@@ -39,8 +39,18 @@
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 
+## Contact Me 📲
+
+<p align="left">
+    <a href="https://discord.gg/PX7tqqhf" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Reddit" height="30" width="40"/> </a> 
+    <a href="https://linkedin.com/in/il9082" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
+</p>
+
+
+
 <!-- Github Statistics -->
 ## Statistics :chart_with_upwards_trend:
+<section id="Stats">
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=Axtomaton&count_private=true&theme=tokyonight&rank_icon=github&custom_title=My%20GitHub%20Stats" />
 </a>
