@@ -1,5 +1,18 @@
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 <header>
     <h1 align="center"><img src="https://readme-typing-svg.demolab.com?duration=3500&color=9370DB&center=true&vCenter=true&lines=Hi+I+am+Ivan+Lin;My+interests+are+in....;Software+Engineering+%f0%9f%92%bb;Production+Engineering+%f0%9f%93%b0;and+Silicon+Engineering+%f0%9f%92%a0+" /></h1>
     <h3 align="center">Junior @ RIT studying Software Engineering</h3>
@@ -41,9 +54,12 @@
 </section>
 
 <!-- Github Statistics -->
-<section id="Github_Statistics">
-    <h2 align='center' >Github Stats</h2>
-    <img align="left" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axtomaton&layout=compact&theme=dark&hide_border=true" /></a><br />
-    <img align="right" width=50%  src="https://github-readme-stats.vercel.app/api?username=Axtomaton&show_icons=true&count_prive=true&theme=dark&hide_border=true" /></a><br />
+## Statistics :chart_with_upwards_trend:
 
-</section>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=Axtomaton&count_private=true&theme=github_dark&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axtomaton&size_weight=0.4&count_weight=0.6&hide=Makefile,Tex&layout=compact&theme=github_dark" />
+</a>
+
