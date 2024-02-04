@@ -3,7 +3,7 @@
 </header>
 
 # Hey, I'm Ivan 🙌
-- Third year student at RIT 🐯: majoring in Software Engineering, minoring in Computer Science and Economics.
+- Junior @ RIT 🐯: majoring in Software Engineering, minoring in Computer Science and Economics.
 - Grew up in Brooklyn, NY and currently lives in Rochester, NY.
 - Enjoys data modelling and drawing inferences from statistical analyses.
 - My hobbies are building keyboards, NYT connections, and playing video games. 
