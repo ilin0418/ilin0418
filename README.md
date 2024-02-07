@@ -7,7 +7,7 @@
 - B.S.in Software Engineering, minoring in Computer Science and Economics.
 - Grew up in Brooklyn, NY and currently lives in Rochester, NY.
 - Enjoys data modelling and drawing inferences from statistical analyses.
-- My hobbies are building keyboards, reading manga, and playing with my piano in my freetime. 
+- My hobbies are building keyboards, tinkeirng with Arch Linux, reading manga, and playing with my piano in my freetime. 
 
 ## Languages & Technology :computer:
 
