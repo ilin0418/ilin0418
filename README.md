@@ -1,18 +1,18 @@
 <header>
-    <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Monaspace+Krypton&size=15&duration=3500&color=9370DB&center=true&vCenter=true&lines=Hi+I+am+Ivan;My+interests+are+in....;Software+Engineering+%f0%9f%92%bb;Embedded+Engineering+%f0%9f%93%b0;and+Silicon+Engineering+%f0%9f%92%a0+" /></h1>
+    <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Monaspace+Argon&size=15&duration=3500&color=9370DB&center=true&vCenter=true&lines=Hi+I+am+Ivan!;My+interests+are+in....;Software+Engineering+%f0%9f%92%bb;Embedded+Engineering+%f0%9f%93%b0;and+Silicon+Engineering+%f0%9f%92%a0+" /></h1>
 </header>
 
 ```python
 class Ivan:
   def __init__(self):
-      self.name = "Ivan Lin
+      self.name = "Ivan Lin"
       self.hometown = "Brooklyn, New York"
       self.college = "Rochester Institute of Technology"
       self.college_year = 3
       self.expected_graduation_date = "May 2026"
       self.interests_and_hobbies =
       [
-          "Gaming 🎮",
+          "LeetCode 🤔",
           "Building keyboard 😋",
           "Reading Manga 📖",
           "Data Visualization 📊",
