@@ -16,7 +16,7 @@ class Ivan:
           "Building keyboard 😋",
           "Reading Manga 📖",
           "Data Visualization 📊",
-          "Cloud Infrastructure ☁️",
+          "Cloud Computing ☁️",
           "AI & Machine Learning 🤖",
       ]
 ```
