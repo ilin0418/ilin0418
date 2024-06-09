@@ -8,7 +8,7 @@ class Ivan:
       self.name = "Ivan Lin"
       self.hometown = "Brooklyn, New York"
       self.college = "Rochester Institute of Technology"
-      self.college_year = 3
+      self.college_year = 4
       self.expected_graduation_date = "May 2026"
       self.interests_and_hobbies =
       [
