@@ -11,14 +11,14 @@ class Ivan:
       self.college_year = 4
       self.expected_graduation_date = "May 2026"
       self.interests_and_hobbies =
-      [
-          "LeetCode 🤔",
-          "Building keyboard 😋",
-          "Reading Manga 📖",
-          "Data Visualization 📊",
-          "Cloud Computing ☁️",
-          "AI & Machine Learning 🤖",
-      ]
+        [
+            "Practicing LeetCode 🤔",
+            "Reading manga and books 📖",
+            "Keeping Up with the Stock Market 📈",
+            "Automating Tedious Tasks 🙂",    
+            "AI & Machine Learning 🤖",
+        ]
+
 ```
 
 <!-- Github Statistics -->
