@@ -7,6 +7,7 @@ class Ivan:
   def __init__(self):
       self.name = "Ivan Lin"
       self.hometown = "Brooklyn, New York"
+      self.website = "Ivanlinai.com"
       self.college = "Rochester Institute of Technology"
       self.college_year = 4
       self.expected_graduation_date = "May 2026"
@@ -16,7 +17,7 @@ class Ivan:
             "Reading manga and books 📖",
             "Keeping Up with the Stock Market 📈",
             "Automating Tedious Tasks 🙂",    
-            "AI & Machine Learning 🤖",
+            "Data analytics and Machine Learning 🤖",
         ]
 
 ```
