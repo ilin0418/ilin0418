@@ -12,10 +12,11 @@ class Ivan:
       self.expected_graduation_date = "May 2026"
       self.interests_and_hobbies =
         [
+            "Golfing 🏌️",
             "Practicing LeetCode 🤔",
             "Reading manga and books 📖",
-            "Keeping Up with the Stock Market 📈",
-            "Automating Tedious Tasks 🙂",    
+            "Part-time Day trade on the stock market 📈",
+            "Automating boring Tasks 🙂",    
             "Data analytics and Machine Learning 🤖",
         ]
 
