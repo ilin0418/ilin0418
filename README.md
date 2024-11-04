@@ -15,7 +15,7 @@ class Ivan:
             "Golfing 🏌️",
             "Practicing LeetCode 🤔",
             "Reading manga and books 📖",
-            "Part-time Day trade on the stock market 📈",
+            "Part-time daytrader📈",
             "Automating boring Tasks 🙂",    
             "Data analytics and Machine Learning 🤖",
         ]
