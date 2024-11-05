@@ -33,11 +33,3 @@ class Ivan:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanlin0418&size_weight=0.4&count_weight=0.6&hide=Makefile,Tex&layout=compact&theme=tokyonight" />
 </a>
     
-## Contact Me 📲
-<p align="left">
-    <a href="https://linkedin.com/in/il9082" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
-            <a href="https://www.reddit.com/user/Vibrantluster/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="LinkedIn" height="30" width="40"/></a>
-    <a href="https://discord.gg/PX7tqqhf" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40"/> </a> 
-</p>
-
-
