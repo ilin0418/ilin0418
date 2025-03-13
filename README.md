@@ -1,12 +1,12 @@
 <header>
-    <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Monaspace+Argon&size=15&duration=3500&color=9370DB&center=true&vCenter=true&lines=Hi+I+am+Ivan!;My+interests+are+in....;Software+Engineering+%f0%9f%92%bb;Data+Engineering+%f0%9f%93%b0;and+Site+Reliability+Engineering+%f0%9f%92%a0+" /></h1>
+    <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Monaspace+Argon&size=15&duration=3500&color=9370DB&center=true&vCenter=true&lines=Hi+I+am+Ivan!;My+interests+are+in....;Software+Engineering+%f0%9f%92%bb;Data+Engineering+%f0%9f%93%b0;and+Systems+Engineering+%f0%9f%92%a0+" /></h1>
 </header>
 
 ```typescript
 const ivan = {
   pronouns: ["he", "him"],
-  code: ["python", "c++", "c", "c#", "java", "sql", "javascript"],
-  tools: ["react", "next.js", "angular", "mongodb", "aws"],
+  code: ["python", "c++", "c", "c#", "java", "typescript", "javascript", "julia", "bash", ],
+  tools: ["react", "next.js", "angular", "mongodb", "aws", "terraform", "gcp"],
   school: ["rochester institute of technology"]
 }
 
