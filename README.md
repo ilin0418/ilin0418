@@ -5,7 +5,7 @@
 ```typescript
 const ivan = {
   pronouns: ["he", "him"],
-  code: ["python", "c++", "c", "c#", "java", "typescript", "javascript", "julia", "bash", ],
+  code: ["python", "c++", "c", "c#", "java", "typescript", "javascript", "julia", "bash"],
   tools: ["react", "next.js", "angular", "mongodb", "aws", "terraform", "gcp"],
   school: ["rochester institute of technology"]
 }
